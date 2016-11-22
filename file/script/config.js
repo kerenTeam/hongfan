@@ -1,0 +1,1 @@
+var DTPath = "http://211.149.195.183:8114/";var SKPath = "http://211.149.195.183:8114/skin/default/";var MEPath = "http://211.149.195.183:8114/member/";var DTEditor = "fckeditor";var CKDomain = "";var CKPath = "/";var CKPrex = "c9t_";
